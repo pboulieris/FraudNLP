@@ -32,3 +32,15 @@ Once these files are in place, you can run the code and generate several new col
 
 * The code assumes that the actions column in the DataFrame is a list of lists, where each inner list contains a sequence of actions taken in a single transaction.
 * The code also assumes that the times column in the DataFrame is a list of lists, where each inner list contains the timestamp (in milliseconds) of each action taken in a single transaction.
+
+## Cite
+```
+@article{boulieris2023fraud,
+  title={Fraud detection with natural language processing},
+  author={Boulieris, Petros and Pavlopoulos, John and Xenos, Alexandros and Vassalos, Vasilis},
+  journal={Machine Learning},
+  pages={1--22},
+  year={2023},
+  publisher={Springer}
+}
+```
