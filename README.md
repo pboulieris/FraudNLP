@@ -1,6 +1,8 @@
 # Fraud Detection with NLP
 Data loading and preprocessing code for the paper titled '**Fraud Detection with NLP**', which demonstrates the use of natural language processing techniques to detect fraud in financial transactions.
 
+[Paper link](https://link.springer.com/article/10.1007/s10994-023-06354-5)
+
 ## Dependencies
 This code requires the following Python packages:
 
